@@ -1,2 +1,2 @@
 # Stock_practice
-try to estimation Stock trend
+try to estimate Stock trend
